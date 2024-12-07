@@ -170,4 +170,4 @@ Program telas Selesai, Terima Kasih
 ```
 
 # Flowchart 
-![Flowchart](Flowchart_Labpy8.png)
+![Flowchart](Flowchart.png)
