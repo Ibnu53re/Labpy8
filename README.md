@@ -84,21 +84,26 @@ if __name__ == '__main__':
 ```
 # Penjelasan
 Penjelasan Program Utama:
-1. Class PersonManager
+1. Class Person Manager.
 Digunakan untuk mengelola data mahasiswa, seperti menambah, menampilkan, menghapus, atau mengubah data.
 
-2.Menu Interaktif:
+2. Menu Interaktif.
 Program menyediakan menu untuk memilih operasi:
+
 1: Tambah data mahasiswa.
+
 2: Tampilkan semua data mahasiswa.
+
 3: Hapus data mahasiswa berdasarkan nama.
+
 4: Ubah nilai mahasiswa berdasarkan nama.
+
 5: Keluar dari program.
 
-3. Validasi Input:
+3. Validasi Input.
 Menggunakan try-except untuk menangani input yang tidak valid, seperti saat memasukkan nilai yang seharusnya berupa angka.
 
-4. Pengulangan Program:
+4. Pengulangan Program.
 Menggunakan while True agar program terus berjalan sampai pengguna memilih opsi untuk keluar.
 
 # Output
