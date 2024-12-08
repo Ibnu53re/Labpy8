@@ -90,15 +90,15 @@ Digunakan untuk mengelola data mahasiswa, seperti menambah, menampilkan, menghap
 2. Menu Interaktif.
 Program menyediakan menu untuk memilih operasi:
 
-1: Tambah data mahasiswa.
+    1: Tambah data mahasiswa.
 
-2: Tampilkan semua data mahasiswa.
+    2: Tampilkan semua data mahasiswa.
 
-3: Hapus data mahasiswa berdasarkan nama.
+    3: Hapus data mahasiswa berdasarkan nama.
 
-4: Ubah nilai mahasiswa berdasarkan nama.
+    4: Ubah nilai mahasiswa berdasarkan nama.
 
-5: Keluar dari program.
+    5: Keluar dari program.
 
 3. Validasi Input.
 Menggunakan try-except untuk menangani input yang tidak valid, seperti saat memasukkan nilai yang seharusnya berupa angka.
